@@ -3,4 +3,6 @@ This repo contains implementation of some commonly used data structures and algo
 
 ##### Disjoint Set Union (dsu.h):
 We are given several elements, each of which is a separate set. A DSU will have an operation to combine any two sets, and it will be able to tell in which set a specific element is.
+
+*dsu demo*
 ![](https://github.com/rahulbiswas876/competitive_programming_mylib/blob/master/dsu.png)
